@@ -1,6 +1,10 @@
-# Front
+# Queriddlev2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+
+## Dependencies
+npm install bootstrap
+npm install @ng-bootstrap/ng-bootstrap
 
 ## Development server
 
