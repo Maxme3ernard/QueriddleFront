@@ -6,6 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 npm install bootstrap
 npm install @ng-bootstrap/ng-bootstrap
 
+npm install ng2-pdf-viewer --save
+Usage : https://www.npmjs.com/package/ng2-pdf-viewer
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
