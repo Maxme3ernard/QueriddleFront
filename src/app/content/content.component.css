@@ -1,0 +1,12 @@
+h1 {
+      color : #45d8ff;
+    }
+
+.pdf-container {
+  width: 80%;
+  height: 700px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
