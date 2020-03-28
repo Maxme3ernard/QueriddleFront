@@ -6,11 +6,13 @@ import { AppComponent } from './app.component';
 import { ContentComponent } from './content/content.component';
 
 import { PdfViewerModule } from 'ng2-pdf-viewer';
+import { MenuComponent } from './menu/menu.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ContentComponent
+    ContentComponent,
+    MenuComponent
   ],
   imports: [
     BrowserModule,
